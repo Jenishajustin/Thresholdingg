@@ -82,31 +82,31 @@ for i in range(0,9):
 
 ### Original Image
 <br>
-![Screenshot 2024-05-02 184114](https://github.com/Jenishajustin/Thresholdingg/assets/119405070/2025b34a-c94b-4637-834a-be5497d6665d)
+<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/2025b34a-c94b-4637-834a-be5497d6665d" width=65%>
 
 <br>
 
 ### Global Thresholding
 <br>
-![Screenshot 2024-05-02 184224](https://github.com/Jenishajustin/Thresholdingg/assets/119405070/e71e6231-1988-4cfe-9895-7f3af798859f)
-![Screenshot 2024-05-02 184246](https://github.com/Jenishajustin/Thresholdingg/assets/119405070/a7d02d51-79a2-4dfc-9c8f-4ddf1be9ef2b)
-![Screenshot 2024-05-02 184306](https://github.com/Jenishajustin/Thresholdingg/assets/119405070/9152ae90-691f-42c4-a972-9d42ad8efc5b)
-![Screenshot 2024-05-02 184328](https://github.com/Jenishajustin/Thresholdingg/assets/119405070/7960572e-11ce-4b99-8216-516a576cef35)
-![Screenshot 2024-05-02 184349](https://github.com/Jenishajustin/Thresholdingg/assets/119405070/0cb1621b-1ed3-43f9-aa90-d8730ce6a598)
+<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/e71e6231-1988-4cfe-9895-7f3af798859f" width=65%>
+<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/a7d02d51-79a2-4dfc-9c8f-4ddf1be9ef2b" width=65%>
+<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/9152ae90-691f-42c4-a972-9d42ad8efc5b" width=65%>
+<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/7960572e-11ce-4b99-8216-516a576cef35" width=65%>
+<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/0cb1621b-1ed3-43f9-aa90-d8730ce6a598" width=65%>
 
 <br>
 
 ### Adaptive Thresholding
 <br>
-![Screenshot 2024-05-02 184445](https://github.com/Jenishajustin/Thresholdingg/assets/119405070/9adda608-b381-48aa-a18d-ff17cf5fc194)
-![Screenshot 2024-05-02 184510](https://github.com/Jenishajustin/Thresholdingg/assets/119405070/d3b46286-b5dd-4e0b-8d86-f18737aa7964)
+<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/9adda608-b381-48aa-a18d-ff17cf5fc194" width=65%>
+<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/d3b46286-b5dd-4e0b-8d86-f18737aa7964" width=65%>
 
 <br>
 
 
 ### Optimum Global Thesholding using Otsu's Method
 <br>
-![Screenshot 2024-05-02 184420](https://github.com/Jenishajustin/Thresholdingg/assets/119405070/ea95e603-397a-4666-a19b-f0822f656124)
+<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/ea95e603-397a-4666-a19b-f0822f656124" width=65%>
 
 <br>
 
